@@ -1,0 +1,152 @@
+Genes,Reason
+Calb2,Phillips et al 2019
+Scn4b,
+Gad1,Marker gene
+Prkcd,Marker gene
+Necab2,
+Neurog2,Caudal progenitor markers from literature-looks good in RNA seq data
+Olig3,Caudal progenitor markers from literature-looks good in RNA seq data
+Dbx1,Caudal progenitor markers from literature-looks good in RNA seq data
+Ascl1,Rostral progenitor markers from literature - looks good in RNA seq data
+Nkx2-2,Rostral progenitor markers from literature - looks good in RNA seq data
+Irx3,Other progenitor markers from literature - looks good in RNA seq data
+Pax6,Other progenitor markers from literature - looks good in RNA seq data
+Gbx2,Other progenitor markers from literature - looks good in RNA seq data
+Mki67,Label dividing cells - looks good in RNA seq data
+Tac2,subclass_markers
+Chrnb4,subclass_markers
+Sox1,subclass_markers
+Pou4f1,subclass_markers
+Sox14,subclass_markers
+Meis2,subclass_markers
+Isl1,subclass_markers_looks good in previous merfish data
+Pvalb,subclass_markers_looks good in previous merfish data
+Gata3,subclass_markers
+Tal1,subclass_markers
+Dlx6,subclass_and_ZI_markers
+Dlx6os1,subclass_markers
+Rprml,subclass_markers
+Zim1,subclass_markers
+Galr1,subclass_markers
+Bhlhe22,subclass_markers
+Fzd5,subclass_markers
+Ctxn3,subclass_markers
+Rxfp1,subclass_markers_looks good in previous merfish data
+Grin2c,subclass_markers
+Prkcd,subclass_markers_looks good in previous merfish data
+Col27a1,subclass_markers
+Mctp2,subclass_markers
+Aqp4,Non_neuronal markers (astrocyte)
+Gfap,Non_neuronal markers (astrocyte)
+Emrn,Non_neuronal markers (Oligo)
+Apod,Non_neuronal markers (Oligo)
+Pdgfra,Non_neuronal markers (OPC)
+Cspg4,Non_neuronal markers
+Aif1,Non_neuronal markers (Microglia)
+Cx3cr1,Non_neuronal markers (Microglia)
+Dlx5,ZI_markers
+Th,ZI_markers
+Alk,spatially distinct and looks quite good in previous merfish data (thalamus)
+Serpine2,spatially distinct and looks quite good in previous merfish data (thalamus)
+C1ql3,spatially distinct and looks quite good in previous merfish data (thalamus)
+Car8,spatially distinct and looks quite good in previous merfish data (thalamus)
+Nmbr,spatially distinct and looks quite good in previous merfish data (thalamus)
+Cbln1,spatially distinct and looks quite good in previous merfish data (thalamus)
+Cbln2,spatially distinct and looks quite good in previous merfish data (thalamus)
+Chat,spatially distinct and looks quite good in previous merfish data (thalamus)
+Lmo3,spatially distinct and looks quite good in previous merfish data (thalamus)
+Col15a1,spatially distinct and looks quite good in previous merfish data (thalamus)
+Ctxn3,spatially distinct and looks quite good in previous merfish data (thalamus)
+Tpbg,spatially distinct and looks quite good in previous merfish data (thalamus)
+Six3,spatially distinct and looks quite good in previous merfish data (thalamus)
+Necab1,spatially distinct and looks quite good in previous merfish data (thalamus)
+Pdlim3,spatially distinct and looks quite good in previous merfish data (thalamus)
+Pou3f3,spatially distinct and looks quite good in previous merfish data (thalamus)
+Pou6f2,spatially distinct and looks quite good in previous merfish data (thalamus)
+Scube1,spatially distinct and looks quite good in previous merfish data (thalamus)
+Tspan9,spatially distinct and looks quite good in previous merfish data (thalamus)
+Tsh22,spatially distinct and looks quite good in previous merfish data (thalamus)
+Vipr2,spatially distinct and looks quite good in previous merfish data (thalamus)
+Wnt2,spatially distinct and looks quite good in previous merfish data (thalamus)
+Slc17a6,Pan-glutamatergic
+Slc32a1,Pan-GABAergic
+Slc17a8,spatially distinct and looks quite good in previous merfish data (thalamus)
+Kcnq5,potential gradient for Prkcd
+Stxbp5l,potential gradient for Prkcd
+Sparc,potential gradient for Prkcd
+Cnih2,potential gradient for Prkcd
+Thsd7b,potential gradient for Prkcd
+Wnt4,dev gene / potential gradient for PF
+Cbln1,dev gene / potential gradient for PF (and others)
+Fstl5,potential gradient for PF
+Ctxn3,potential gradient for PF
+Slc32a1,potential gradient for PF
+Fabp3,potential gradient for Rprml Zim1
+Slc32a1,potential gradient for Rprml Zim1
+Cacna2d1,potential gradient for Rprml Zim1
+Slc17a6,potential gradient for Rprml Zim1
+Nfib,potential gradient for Rprml Zim1
+Adarb2,potential gradient for Rxfp1 Epb4
+Pcsk5,potential gradient for Rxfp1 Epb4
+Col12a1,potential gradient for Rxfp1 Epb4
+Cntnap5b,potential gradient for Rxfp1 Epb4
+Gabrg3,potential gradient for Rxfp1 Epb4
+Pou4f1        ,potential gradient for LH
+D130079A08Rik,potential gradient for LH
+Gng8       ,potential gradient for LH
+Hcn1,potential gradient for LH
+Kcnc1,potential gradient for LH
+Fxyd6        ,potential gradient for RT
+Pmp22,potential gradient for RT
+Sema6a,dev gene / potential gradient for RT
+Reln        ,potential gradient for Gata3 Tal1
+Pde1a,potential gradient for Gata3 Tal1
+Cbln4,potential gradient for Gata3 Tal1
+Egfem1,potential gradient for Gata3 Tal1
+Hs3st4,potential gradient for Gata3 Tal1
+Robo2,dev gene / potential gradient for AV
+Unc5d        ,potential gradient for AV
+Glis1,potential gradient for AV
+Cacna1e,potential gradient for AV
+Egflam,potential gradient for AV
+Zfpm2,potential gradient for AV
+Igf1,potential gradient for AV
+Nrxn,dev gene
+Gabra1,"dev gene, might be too short"
+Cadm1,"Ribic et al 2019, PV+ synapse formation from thalamus"
+Cadm2,"Ribic et al 2019, PV+ synapse formation from thalamus"
+Cadm3,"Ribic et al 2019, PV+ synapse formation from thalamus"
+Cadm4,"Ribic et al 2019, PV+ synapse formation from thalamus"
+Ntng1,"Sato et al 2012, dev genes"
+Vgf,"Sato et al 2012, dev genes"
+Tmem192,"Sato et al 2012, dev genes"
+Cbln1,“Positive regulation of synapse development” with spatial variability in visium spatial data
+Cbln2,“Positive regulation of synapse development” with spatial variability in visium spatial data
+Lrrtm1,“Positive regulation of synapse development” with spatial variability in visium spatial data
+Lrrtm2,“Positive regulation of synapse development” with spatial variability in visium spatial data
+Tpbg,“Positive regulation of synapse development” with spatial variability in visium spatial data
+Slitrk6,“Positive regulation of synapse development” with spatial variability in visium spatial data
+Lrtm2,“Positive regulation of synapse development” with spatial variability in visium spatial data
+Nrxn1,“Positive regulation of synapse development” with spatial variability in visium spatial data
+Ptprd,“Positive regulation of synapse development” with spatial variability in visium spatial data
+Sema4d,“Positive regulation of synapse development” with spatial variability in visium spatial data
+Slitrk1,“Positive regulation of synapse development” with spatial variability in visium spatial data
+Tmem255a,ZI glutamatergic axes of variance
+Coch,ZI gabaergic axes of variance
+Tcf7l2,ZI glutamatergic axes of variance
+Vip,ZI inhibitory subclass markers  https://www.science.org/doi/10.1126/sciadv.abf6709
+Calb1,ZI inhibitory subclass markers https://www.science.org/doi/10.1126/sciadv.abf6709
+Calb2,(== calretinin) ZI inhibitory subclass markers https://www.science.org/doi/10.1126/sciadv.abf6709
+Meis2,ZI cluster markers (https://www.sciencedirect.com/science/article/pii/S0092867421013398)
+Pmch,ZI cluster markers (https://www.sciencedirect.com/science/article/pii/S0092867421013398)
+VIP,
+Ubash3b        ,111_HY/TH Gnb marker
+Zfhx4,244_MY Hoxb8 marker
+Npas1,87_HY Six3 marker
+Gpx3,99_HY Tbx3
+Pnoc,47_Sncg
+Rph3a,242_MY Slc6a5
+Lrrc38,104_HY Gsx1 antimarker
+Ecel1,small gaba cluster axes of variance
+Dlk1,small gaba cluster axes of variance
+Reln        ,small gaba cluster axes of variance

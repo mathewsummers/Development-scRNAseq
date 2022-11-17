@@ -9,8 +9,10 @@ setwd("C:/Users/mathew.summers/Transcriptomics/Development scRNAseq/Code/R Scrip
 ## Convert cell by gene matrix to Python readable format
 
 fnInput = "../../Data/R Formats/P11_14_RNA_norm_dat_for_thalamus_gene_panel"
+fnClusterInput = "../../Data/R Formats/TH_p11_p14_initial_itercluster_result2022-07-01"
 fnOutputData = "../../Data/dev_data.mtx"
 fnOutputNames = "../../Data/gene_names.feather"
+fnOutputCluster = "../../Data/cluster_results.feather"
 
 normData = readRDS(fnInput)
 
@@ -21,6 +23,16 @@ writeMM(normData, fnOutputData)
 genes = as.data.frame(row.names(normData))
 
 write_feather(genes,fnOutputNames)
+
+## Get clustering results
+
+clusterData = readRDS(fnClusterInput)
+
+clusterCodes = as.data.frame(clusterData$cl.result$cl)
+clDF = data.frame(id = rownames(clusterCodes), cl = clusterCodes)
+
+write_feather(clDF,fnOutputCluster)
+
 
 ## Best estimate on what's contained in each of these other files:
 
